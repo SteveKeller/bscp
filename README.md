@@ -6,4 +6,5 @@ In other words, it handles the edge case where RSync fails.
 
 # Usage
 bscp SRC HOST:DEST [BLOCKSIZE] [HASH]
+
 The default BLOCKSIZE is 65536 (64 KiB). The default HASH algorithm is sha1 (SHA-1).
